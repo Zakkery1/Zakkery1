@@ -4,11 +4,9 @@
 
 Welcome to my profile!
 
-- I'm learning Html, CSS, and 
-
-- 🔭 I’m currently working on ...
+- I'm learning Python, Html, CSS, and Javascript
 - 🌱 I’m currently learning Html, CSS, and Javascript
 
-
+	[Linkedin](https://www.linkedin.com/in/zakkery-cales-096a4b172/)
 
 
