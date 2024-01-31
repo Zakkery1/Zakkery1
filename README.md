@@ -14,6 +14,10 @@ Welcome to my profile!
 [![GitHub followers](https://img.shields.io/github/followers/Zakkery1?style=social)](https://www.github.com/ConnerKT)
 [![Linkedin Badge](https://img.shields.io/badge/-Zakk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/in/zakkery-cales-096a4b172/)](https://www.linkedin.com/in/zakkery-cales-096a4b172/)
 
+## Hobbies 
+- 3D Printing
+- FPV Drones
+- Gaming
 
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
