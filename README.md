@@ -1,3 +1,5 @@
+![alt text](./assets/giphy.gif)
+
 # Hi I'm Zakk
 
 Welcome to my profile!
@@ -6,8 +8,7 @@ Welcome to my profile!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Html, CSS, and Javascript
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
 
 
